@@ -10,7 +10,7 @@ Thank you once again for considering a donation. Together, we can create a thriv
 
 ---
 
-#### You can scan or click one of the options below:
+#### 💰 You can scan or click one of the options below:
 
 ###### [Buy Me A Coffee](https://www.buymeacoffee.com/MojtabaHs)
 [<img width="120" alt="Buy Me Coffee" src="/bmc_qr.png">](https://www.buymeacoffee.com/MojtabaHs)
@@ -18,4 +18,4 @@ Thank you once again for considering a donation. Together, we can create a thriv
 ###### Trust Wallet (Crypto)
 [<img width="120" alt="Trust Wallet" src="/tw_qr.jpg">](https://www.google.com/search?q=0x14b7eC1d615707CbFFddADdbbCb76d875943cC74)
 
-[^1]: Proudly more than ~15m at the time of writing this file
+[^1]: Proudly reached ~14.5m people at the time of writing this file
