@@ -12,9 +12,9 @@ Thank you once again for considering a donation. Together, we can create a thriv
 
 #### 💰 You can scan or click one of the options below:
 
-|  [<img width="120" alt="Reymit" src="/reymit_qr.png">](https://reymit.ir/mojtabahs) 	|  <img width="120" alt="Trust Wallet" src="/tw_qr.jpg"> 	|
-|:-:	|:-:	|
-|  [**Remit**](https://reymit.ir/MojtabaHs) 	|  **Trust Wallet** (Crypto) 	|
+|  [<img width="120" alt="Buy Me Coffee" src="/bmc_qr.png">](https://www.buymeacoffee.com/MojtabaHs) 	|  [<img width="120" alt="Reymit" src="/reymit_qr.png">](https://reymit.ir/mojtabahs) 	|  <img width="120" alt="Trust Wallet" src="/tw_qr.jpg"> 	|
+|:-:	|:-:	|:-:	|
+|  [**Buy Me A Coffee**](https://www.buymeacoffee.com/MojtabaHs) 	|  [**Remit**](https://reymit.ir/MojtabaHs) 	|  **Trust Wallet** (Crypto) 	|
 
 
 [^1]: Proudly reached ~14.5m people at the time of writing this file
