@@ -17,4 +17,4 @@ Thank you once again for considering a donation. Together, we can create a thriv
 |  [**Buy Me A Coffee**](https://www.buymeacoffee.com/MojtabaHs) 	|  [**Remit**](https://reymit.ir/MojtabaHs) 	|  **Trust Wallet** (Crypto) 	|
 
 
-[^1]: Proudly reached ~14.5m people at the time of writing this file
+[^1]: Proudly reached ~15.5m people at the time of writing this file
