@@ -4,7 +4,7 @@ Thank you for visiting my donation landing page! I'm incredibly grateful for you
 
 My passion for sharing knowledge and helping others has driven me to contribute my skills and expertise selflessly. However, maintaining these commitments requires a significant investment of time and resources. By donating to support my contributions, you'll not only help me sustain my efforts but also empower me to continue making a positive impact in the community.
 
-Your generous contributions will directly contribute to the growth and development of the projects I'm involved in, enable me to reach even [more people][^1], and allow me to further enhance the quality and availability of resources for aspiring programmers. Any amount you can contribute will be greatly appreciated and will go a long way in supporting my mission.
+Your generous contributions will directly contribute to the growth and development of the projects I'm involved in, enable me to reach even more people[^1], and allow me to further enhance the quality and availability of resources for aspiring programmers. Any amount you can contribute will be greatly appreciated and will go a long way in supporting my mission.
 
 Thank you once again for considering a donation. Together, we can create a thriving community that benefits all and fosters the spirit of knowledge sharing.
 
